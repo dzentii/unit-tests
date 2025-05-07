@@ -12,4 +12,4 @@
 
 **unit-tests/**  
 **├── src/**  
-**│   ├── simple.test.ts    # unit-тесты **  
+│   ├── simple.test.ts      # unit-тесты 
